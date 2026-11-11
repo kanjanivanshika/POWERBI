@@ -43,3 +43,6 @@ The report will help airline management identify operational inefficiencies, und
 - Day of Week
 - Origin Airport
 Purpose: Understand overall airline operations, flight distribution, airline activity, and travel patterns across different airports and time periods.
+
+
+## Page 2 — Flight Delay & On-Time Performance Analysis ## 
