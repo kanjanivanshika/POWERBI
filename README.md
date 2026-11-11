@@ -46,3 +46,26 @@ Purpose: Understand overall airline operations, flight distribution, airline act
 
 
 ## Page 2 — Flight Delay & On-Time Performance Analysis ## 
+
+## Cards ##
+- Total Delayed Flights
+- On-Time Flights
+- On-Time Performance %
+- Average Departure Delay (Minutes)
+- Average Arrival Delay (Minutes)
+  
+## Visuals ##
+1. Average Departure Delay by Airline — Bar Chart
+2. Average Arrival Delay by Airline — Bar Chart
+3. Monthly Flight Delay Trends — Line Chart
+4. On-Time vs Delayed Flights — Donut Chart
+5. Delay Distribution by Time of Day — Column Chart
+6. Airline Performance Matrix
+
+## Slicers ##
+- Airline Name
+- Month
+- Day of Week
+- Delay Category
+  
+Purpose: Analyze airline punctuality, identify airlines experiencing frequent delays, and understand how departure and arrival delays affect overall flight performance.
