@@ -69,3 +69,81 @@ Purpose: Understand overall airline operations, flight distribution, airline act
 - Delay Category
   
 Purpose: Analyze airline punctuality, identify airlines experiencing frequent delays, and understand how departure and arrival delays affect overall flight performance.
+
+## Page 3 — Airport & Route Performance Analysis ##
+
+## Cards ##
+- Total Origin Airports
+- Total Destination Airports
+- Total Routes
+- Average Airport Departure Delay
+- Average Route Arrival Delay
+
+## Visuals ##
+1. Airport-wise Average Departure Delay — Bar Chart
+2. Airport-wise Average Arrival Delay — Bar Chart
+3. Top 10 Routes by Flight Volume — Bar Chart
+4. Top 10 Routes with Highest Average Delays — Bar Chart
+5. Flight Distribution by Origin & Destination — Matrix
+6. Airport-wise Flight Activity — Map
+7. Airline-wise Route Performance — Matrix
+
+## Slicers ##
+- Origin Airport
+- Destination Airport
+- Airline Name
+- Month
+  
+Purpose: Identify airports and routes experiencing frequent delays, understand flight traffic distribution, and evaluate airport-level operational efficiency.
+
+## Page 4 — Flight Cancellation & Diversion Analysis ##
+
+## Cards ##
+- Total Cancelled Flights
+- Cancellation Rate %
+- Total Diverted Flights
+- Diversion Rate %
+- Total Operated Flights
+
+## Visuals ##
+1. Cancelled Flights by Airline — Bar Chart
+2. Cancellation Reasons — Donut Chart
+3. Monthly Cancellation Trends — Line Chart
+4. Cancellation Distribution by Day of Week — Column Chart
+5. Diverted Flights by Airline — Bar Chart
+6. Airline Cancellation Performance — Matrix
+7. Cancellation Reason by Month — Stacked Column Chart
+
+## Slicers ##
+- Airline Name
+- Month
+- Cancellation Reason
+- Day of Week
+
+Purpose: Understand cancellation and diversion patterns, identify major disruption factors, and evaluate how cancellations affect airline operations.
+
+## Page 5 — Delay Reasons & Operational Efficiency ##
+
+## Cards ##
+- Total Weather Delay (Minutes)
+- Total Airline Delay (Minutes)
+- Total Air System Delay (Minutes)
+- Total Late Aircraft Delay (Minutes)
+- Total Security Delay (Minutes)
+
+## Visuals ##
+1. Flight Delay Reasons Comparison — Stacked Bar Chart
+2. Total Delay Minutes by Airline — Bar Chart
+3. Delay Reasons by Month — Stacked Column Chart
+4. Delay Reasons by Time of Day — Matrix
+5. Average Delay Minutes by Airline — Matrix
+6. Top 10 Airlines with Highest Delay Impact — Bar Chart
+7. Delay Reason Contribution % — Donut Chart
+
+## Slicers ##
+- Airline Name
+- Month
+- Delay Reason
+- Origin Airport
+
+Purpose: Identify the major causes of flight delays, compare their impact across airlines, and help management understand where operational improvements are required.
